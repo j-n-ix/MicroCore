@@ -1,0 +1,9 @@
+{
+  "name": "placeable-tiny-core",
+  "displayName": "Placeable Micro core",
+  "author": "jinx",
+  "description": "Adds a placeable 1x1 core block. js mod variant.",
+  "version": "1.07",
+  "minGameVersion": "154",
+  "main": "main"
+}
