@@ -1,4 +1,4 @@
-# Placeable Micro Core
+# Placeable and Removeable Micro Core
 
 Adds a custom 1x1 CoreBlock called **Micro Core**. It uses Mindustry's built-in CoreBlock behavior and overrides placement checks so it can be placed on any tile during normal play.
 
